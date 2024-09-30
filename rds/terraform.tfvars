@@ -1,0 +1,9 @@
+db-name = "everything-database"
+db-username = "user"
+db-password = "Pass!234"
+db-engine = "mysql"
+db-engine-version = "8.0"
+db-instance-class = "db.t3.micro"
+db-parameter-group-name = "default.mysql8.0"
+db-allocated-storage = 10
+db-max-storage = 100
